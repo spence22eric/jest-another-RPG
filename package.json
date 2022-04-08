@@ -18,5 +18,8 @@
   "homepage": "https://github.com/spence22eric/jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "node": "^17.7.2"
   }
 }
