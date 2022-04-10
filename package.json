@@ -1,0 +1,26 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spence22eric/jest-another-RPG.git"
+  },
+  "author": "Eric Spencer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spence22eric/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/spence22eric/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.2",
+    "node": "^17.7.2"
+  }
+}
